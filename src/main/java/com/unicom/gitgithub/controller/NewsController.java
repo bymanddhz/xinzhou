@@ -29,6 +29,8 @@ public class NewsController {
         list.add(news2);
         list.add(news3);
         list.add(news3);
+        list.add(news3);
+        list.add(news3);
         return list;
     }
 }
