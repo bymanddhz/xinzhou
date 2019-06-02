@@ -8,4 +8,5 @@ package com.unicom.gitgithub.controller.entity;
  * @Version 1.0
  */
 public class a {
+    int j;
 }
