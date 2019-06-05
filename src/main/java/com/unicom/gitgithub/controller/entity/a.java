@@ -11,4 +11,5 @@ public class a {
     int j;
     int a;
     int c;
+    int d;
 }
