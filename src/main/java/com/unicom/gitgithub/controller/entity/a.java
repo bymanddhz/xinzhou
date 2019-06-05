@@ -10,5 +10,5 @@ package com.unicom.gitgithub.controller.entity;
 public class a {
     int j;
     int a;
-    int b;
+    int c;
 }
