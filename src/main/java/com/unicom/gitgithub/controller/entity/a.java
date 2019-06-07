@@ -12,5 +12,5 @@ public class a {
     int a;
     int c;
     int d;
-    int xinzhoubak5;
+    int xinzhoubak6;
 }
