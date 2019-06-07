@@ -13,4 +13,5 @@ public class a {
     int c;
     int d;
     int xinzhoubak6;
+    int m;
 }
