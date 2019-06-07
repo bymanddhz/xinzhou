@@ -12,4 +12,5 @@ public class a {
     int a;
     int c;
     int d;
+    int xinzhou;
 }
